@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "https://seppo0010.github.io/jeremybearimy.com/static/css/main.6a5b63c9.css",
-    "main.js": "https://seppo0010.github.io/jeremybearimy.com/static/js/main.dcb38f51.js",
+    "main.js": "https://seppo0010.github.io/jeremybearimy.com/static/js/main.c79ce88a.js",
     "static/js/787.483897ca.chunk.js": "https://seppo0010.github.io/jeremybearimy.com/static/js/787.483897ca.chunk.js",
     "worker.js": "https://seppo0010.github.io/jeremybearimy.com/ae480a2473a6a55048f4.worker.js",
     "index.html": "https://seppo0010.github.io/jeremybearimy.com/index.html",
     "main.6a5b63c9.css.map": "https://seppo0010.github.io/jeremybearimy.com/static/css/main.6a5b63c9.css.map",
-    "main.dcb38f51.js.map": "https://seppo0010.github.io/jeremybearimy.com/static/js/main.dcb38f51.js.map",
+    "main.c79ce88a.js.map": "https://seppo0010.github.io/jeremybearimy.com/static/js/main.c79ce88a.js.map",
     "787.483897ca.chunk.js.map": "https://seppo0010.github.io/jeremybearimy.com/static/js/787.483897ca.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6a5b63c9.css",
-    "static/js/main.dcb38f51.js"
+    "static/js/main.c79ce88a.js"
   ]
 }

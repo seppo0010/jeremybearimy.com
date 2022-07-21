@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "https://seppo0010.github.io/jeremybearimy.com/static/css/main.6a5b63c9.css",
+    "main.js": "https://seppo0010.github.io/jeremybearimy.com/static/js/main.196910f7.js",
+    "static/js/787.483897ca.chunk.js": "https://seppo0010.github.io/jeremybearimy.com/static/js/787.483897ca.chunk.js",
+    "worker.js": "https://seppo0010.github.io/jeremybearimy.com/9f9f4175cfd8eaede22f.worker.js",
+    "index.html": "https://seppo0010.github.io/jeremybearimy.com/index.html",
+    "main.6a5b63c9.css.map": "https://seppo0010.github.io/jeremybearimy.com/static/css/main.6a5b63c9.css.map",
+    "main.196910f7.js.map": "https://seppo0010.github.io/jeremybearimy.com/static/js/main.196910f7.js.map",
+    "787.483897ca.chunk.js.map": "https://seppo0010.github.io/jeremybearimy.com/static/js/787.483897ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a5b63c9.css",
+    "static/js/main.196910f7.js"
+  ]
+}
